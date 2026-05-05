@@ -1,8 +1,6 @@
 # Auto Filling Text with N-Gram Models
 
-This project is an auto-filling text program implemented in Python using N-gram models. The program suggests the next word based on the input given by the user. It utilizes N-gram models, specifically Trigrams and Bigrams, to generate predictions.
-
-.
+This project is an auto-filling text program implemented in Python using N-gram models. The program suggests the next word based on the input given by the user. It utilizes N-gram models, specifically Trigrams and Bigrams, to generate predictions..
 
 ## Dataset Information
 
